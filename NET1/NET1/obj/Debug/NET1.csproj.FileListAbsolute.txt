@@ -1,0 +1,6 @@
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\bin\Debug\NET1.exe.config
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\bin\Debug\NET1.exe
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\bin\Debug\NET1.pdb
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\obj\Debug\NET1.csprojResolveAssemblyReference.cache
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\obj\Debug\NET1.exe
+C:\Tanya\Универ\Net\Проекты\NET1\NET1\obj\Debug\NET1.pdb
