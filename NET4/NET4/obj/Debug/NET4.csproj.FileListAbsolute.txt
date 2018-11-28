@@ -1,0 +1,12 @@
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\bin\Debug\NET4.exe.config
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\bin\Debug\NET4.exe
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\bin\Debug\NET4.pdb
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\obj\Debug\NET4.csprojResolveAssemblyReference.cache
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\obj\Debug\NET4.exe
+c:\users\t2008\documents\visual studio 2017\Projects\NET4\NET4\obj\Debug\NET4.pdb
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\bin\Debug\NET4.exe.config
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\bin\Debug\NET4.exe
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\bin\Debug\NET4.pdb
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\obj\Debug\NET4.csprojResolveAssemblyReference.cache
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\obj\Debug\NET4.exe
+C:\Users\t2008\Documents\GitHub\HomeWork\NET4\NET4\obj\Debug\NET4.pdb
