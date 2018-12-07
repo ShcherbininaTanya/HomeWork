@@ -1,0 +1,14 @@
+C:\Tanya\Универ\Net\Проекты\Example\Example\bin\Debug\Example.exe.config
+C:\Tanya\Универ\Net\Проекты\Example\Example\bin\Debug\Example.exe
+C:\Tanya\Универ\Net\Проекты\Example\Example\bin\Debug\Example.pdb
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\MainWindow.g.cs
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\App.g.cs
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example_MarkupCompile.cache
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example_MarkupCompile.lref
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\MainWindow.baml
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.g.resources
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.Properties.Resources.resources
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.csproj.GenerateResource.Cache
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.exe
+C:\Tanya\Универ\Net\Проекты\Example\Example\obj\Debug\Example.pdb
