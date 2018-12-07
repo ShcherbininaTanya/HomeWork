@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\bin\Debug\laba10.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\bin\Debug\laba10.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\laba10.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\laba10.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba10\laba10\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Tanya\Универ\Net\laba10\bin\Debug\laba10.exe
+C:\Tanya\Универ\Net\laba10\bin\Debug\laba10.pdb
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\laba10.csprojResolveAssemblyReference.cache
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\laba10.csproj.GenerateResource.Cache
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\laba10.exe
+C:\Tanya\Универ\Net\laba10\obj\x86\Debug\laba10.pdb
