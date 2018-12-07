@@ -1,0 +1,25 @@
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\laba11.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\laba11.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\bin\Debug\laba11.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\bin\Debug\laba11.pdb
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\laba11.exe
+C:\Users\user\documents\visual studio 2010\Projects\laba11\laba11\obj\x86\Debug\laba11.pdb
+F:\laba11\laba11\obj\x86\Debug\laba11.exe
+F:\laba11\laba11\obj\x86\Debug\laba11.pdb
+F:\laba11\laba11\bin\Debug\laba11.exe
+F:\laba11\laba11\bin\Debug\laba11.pdb
+F:\laba11\laba11\obj\x86\Debug\laba11.csprojResolveAssemblyReference.cache
+F:\laba11\laba11\obj\x86\Debug\laba11.Form1.resources
+F:\laba11\laba11\obj\x86\Debug\laba11.Properties.Resources.resources
+F:\laba11\laba11\obj\x86\Debug\laba11.csproj.GenerateResource.Cache
+C:\Tanya\Универ\Net\laba11\laba11\bin\Debug\laba11.exe
+C:\Tanya\Универ\Net\laba11\laba11\bin\Debug\laba11.pdb
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.csprojResolveAssemblyReference.cache
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.Form1.resources
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.Properties.Resources.resources
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.csproj.GenerateResource.Cache
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.exe
+C:\Tanya\Универ\Net\laba11\laba11\obj\x86\Debug\laba11.pdb
